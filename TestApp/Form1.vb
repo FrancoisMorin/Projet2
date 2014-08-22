@@ -2,5 +2,6 @@
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         //ahjhakjah
+        fjfjfjf()
     End Sub
 End Class
